@@ -1,5 +1,11 @@
 <!-- NEWS.md is maintained by https://cynkra.github.io/fledge, do not edit -->
 
+# fledge.test 0.1.0.9000 (2022-08-21)
+
+- I build some more
+- I fixed it (#ref )
+
+
 # fledge.test 0.1.0 (2022-08-21)
 
 - Same as previous version.
