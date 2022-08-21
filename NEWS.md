@@ -1,5 +1,10 @@
 <!-- NEWS.md is maintained by https://cynkra.github.io/fledge, do not edit -->
 
+# fledge.test 0.1.0.9002 (2022-08-21)
+
+- lorenz
+
+
 # fledge.test 0.1.0.9001 (2022-08-21)
 
 - empty commit
