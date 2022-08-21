@@ -4,18 +4,9 @@
 
 - Same as previous version.
 
-
-# fledge.test 0.0.0.9007 (2022-08-21)
-
 - Same as previous version.
 
-
-# fledge.test 0.0.0.9006 (2022-08-21)
-
 - Same as previous version.
-
-
-# fledge.test 0.0.0.9005 (2022-08-21)
 
 - Same as previous version.
 
